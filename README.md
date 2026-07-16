@@ -1,6 +1,6 @@
 # LaneDetectionSystem
 
-基于 YOLO 实例分割的车道识别项目，支持图片与视频处理，并提供 Windows 桌面窗口。
+学校实习课程结课项目
 
 ## 功能
 
